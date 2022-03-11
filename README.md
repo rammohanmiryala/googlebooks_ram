@@ -40,9 +40,13 @@ cd server && npm watch
 ````
 
 ## Demo
-![E-Commerce Back End](./client/public/images/img.gif)
+![E-Commerce Back End](./Assets/21-mern-homework-demo-01.gif)
 
 ## License 
 
 - Licensed under the MIT License. 
+
+## repositary 
+
+Github : https://github.com/rammohanmiryala/googlebooks_ram.git
 
